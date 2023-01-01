@@ -1,4 +1,3 @@
 provider "aws" {
-  region  = "ap-south-1"
-  profile = "myaws"
+  region = "ap-south-1"
 }
